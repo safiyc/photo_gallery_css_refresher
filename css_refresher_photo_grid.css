@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Russo One', sans-serif;
+  margin-left: 6.5%;
+  font-weight: 100;
+  border-bottom: 2px solid black;
+  width: 42%;
+}
+
+div {
+  margin-left: 5%;
+}
+
+img {
+  width: 44%;
+  float: left;
+  margin: 1.5%;
+}
+
+p {
+  clear: left;
+  margin-left: 6.5%;
+  padding-top: 8px;
+  font-weight: bold;
+}
